@@ -25,7 +25,7 @@ module.exports.config = {
 
 protectCredits(module.exports.config);
 
-/* 🔑 OPENROUTER API KEY */
+/* 🔑 CEREBRAS API KEY */
 const CEREBRAS_API_URL = 'https://api.cerebras.ai/v1/chat/completions';
 
 const API_KEYS = ['csk-hdhemxy63t824fpcj4mmm28ydev5vyvwcm5w86r3ty4kwff6'];
